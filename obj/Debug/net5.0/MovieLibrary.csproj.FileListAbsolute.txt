@@ -1,0 +1,16 @@
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\MovieLibrary.exe
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\MovieLibrary.deps.json
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\MovieLibrary.runtimeconfig.json
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\MovieLibrary.runtimeconfig.dev.json
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\MovieLibrary.dll
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\ref\MovieLibrary.dll
+C:\Users\josef\repos\MovieLibrary\bin\Debug\net5.0\MovieLibrary.pdb
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.csproj.AssemblyReference.cache
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.AssemblyInfo.cs
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.dll
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\ref\MovieLibrary.dll
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.pdb
+C:\Users\josef\repos\MovieLibrary\obj\Debug\net5.0\MovieLibrary.genruntimeconfig.cache
